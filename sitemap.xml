@@ -1,71 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
 
-  <!-- Swedish homepage -->
-  <url>
-    <loc>https://eirapsychotherapy.se/</loc>
-    <lastmod>2025-08-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-
-    <image:image>
-      <image:loc>https://bc-user-uploads.brandcrowd.com/public/media-Production/93241790-0cc1-4fd9-af9f-0be45a58e308/9db63eea-e71a-4bdf-a346-b11581018cb6_2x</image:loc>
-      <image:caption>The lights on the horizon can come as a surprise just as dusk falls. Photo © Claudia Merli 2023</image:caption>
-    </image:image>
-
-    <image:image>
-      <image:loc>https://bc-user-uploads.brandcrowd.com/public/media-Production/93241790-0cc1-4fd9-af9f-0be45a58e308/d218ce27-30be-441f-96f7-395dbef6a15e_2x</image:loc>
-      <image:caption>Vårt mottagningsrum i Stockholm – två bekväma fåtöljer i en lugn och inbjudande miljö</image:caption>
-    </image:image>
-
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1651084978293-8b1fa26de23c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wxMjQzOTV8MHwxfHNlYXJjaHw2fHxMYWJpcnludGh8ZW58MHx8fHwxNzU0NzQ5OTg1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</image:loc>
-      <image:caption>En häcklabyrint som symboliserar vägen genom livets svårigheter och terapeutiska processer</image:caption>
-    </image:image>
-
-    <image:image>
-      <image:loc>https://images.unsplash.com/uploads/14122810486321888a497/1b0cc699?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wxMjQzOTV8MHwxfHNlYXJjaHwxfHxsYWJ5cmludGh8ZW58MHx8fHwxNzU0NzUwMDIxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</image:loc>
-      <image:caption>En stenlabyrint vid havet där en person vandrar – en bild av reflektion och förändring med nytt perspektiv</image:caption>
-    </image:image>
-
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1571907483086-3c0ea40cc16d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wxMjQzOTV8MHwxfHNlYXJjaHwxfHxwcmljZXxlbnwwfHx8fDE3NTUwMTQ3MzJ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</image:loc>
-      <image:caption>Prislappar som representerar våra tydliga och transparenta priser</image:caption>
-    </image:image>
-
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1496115965489-21be7e6e59a0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wxMjQzOTV8MHwxfHNlYXJjaHw5fHxzZXJ2aWNlc3xlbnwwfHx8fDE3NTQ2Njc4MzV8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</image:loc>
-      <image:caption>Ett lysande handslag – symbol för förtroende och samarbete i terapi</image:caption>
-    </image:image>
-
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1483546416237-76fd26bbcdd1?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wxMjQzOTV8MHwxfHNlYXJjaHwxN3x8cnVsZXN8ZW58MHx8fHwxNzU0NzU3MDk5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</image:loc>
-      <image:caption>En öppen anteckningsbok med penna – samtalsterapi som plats för tankar, insikter och reflektion</image:caption>
-    </image:image>
-
-    <image:image>
-      <image:loc>https://lh3.googleusercontent.com/a-/ALV-UjWVg3WlH4IUjm4bbXV5KTvggWiqq8_8TNZ_Sm1nKvPB8bTw2dA=s265-w265-h265</image:loc>
-      <image:caption>EIRA Psykoterapi logo – golden-orange tree in the shape of the Greek letter psi, representing psyche, with leaves symbolising flourishing, on a dark green background</image:caption>
-    </image:image>
-  </url>
-
-  <!-- English page -->
-  <url>
-    <loc>https://eirapsychotherapy.se/therapy-in-english</loc>
-    <lastmod>2025-08-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1472214103451-9374bd1c798e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wxMjQzOTV8MHwxfHNlYXJjaHwxNXx8b3V0c2lkZSUyMGxhYnlyaW50aHxlbnwwfHx8fDE3NTQ5MTc5NDR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080</image:loc>
-      <image:caption>Psychotherapeutic exploration – metaphor for self-awareness and insight, looking beyond at the horizon</image:caption>
-    </image:image>
-
-    <image:image>
-      <image:loc>https://lh3.googleusercontent.com/a-/ALV-UjWVg3WlH4IUjm4bbXV5KTvggWiqq8_8TNZ_Sm1nKvPB8bTw2dA=s265-w265-h265</image:loc>
-      <image:caption>EIRA Psykoterapi logo – golden-orange tree in the shape of the Greek letter psi, representing psyche, with leaves symbolising flourishing, on a dark green background</image:caption>
-    </image:image>
-  </url>
-
-</urlset>
+\f0\fs24 \cf0 <?xml version="1.0" encoding="UTF-8"?>\
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\
+  <url>\
+    <loc>https://eirapsychotherapy.se/</loc>\
+    <lastmod>2025-08-13</lastmod>\
+    <changefreq>monthly</changefreq>\
+    <priority>1.0</priority>\
+  </url>\
+  <url>\
+    <loc>https://eirapsychotherapy.se/therapy-in-english</loc>\
+    <lastmod>2025-08-13</lastmod>\
+    <changefreq>monthly</changefreq>\
+    <priority>0.8</priority>\
+  </url>\
+</urlset>\
+}
